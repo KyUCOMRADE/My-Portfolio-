@@ -24,8 +24,8 @@ Crafted with passion and precision, this site is a living showcase of my skills,
 
 ## 🛠️ Built With
 
-- 🧱 **HTML5**, **CSS3**, **JavaScript**
-- 🎨 [AOS (Animate On Scroll)](https://michalsnik.github.io/aos/)
+- 🧱 **HTML5**, **CSS3**
+- 🎨 AOS (Animate On Scroll)
 - 🐙 **Git & GitHub Pages**
 
 ---
@@ -53,7 +53,7 @@ In this portfolio, you’ll find a dedicated **CV section** after my educational
 Feel free to reach out via:
 
 - 📧 Email: chegejoseph5006@gmail.com  
-- 🐙 GitHub: [@JOSHTECH-tech](https://github.com/JOSHTECH-tech)
+- 🐙 GitHub:[@KyUCOMRADE](https://github.com/KyUCOMRADE)
 
 ---
 
