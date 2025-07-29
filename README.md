@@ -17,7 +17,7 @@ Crafted with passion and precision, this site is a living showcase of my skills,
 
 ## 📸 Sneak Peek
 
-> ⚡ Explore the https://kyucomrade.github.io/My-Portfolio-/
+> ⚡ Explore the [live version] https://kyucomrade.github.io/My-Portfolio-/
 > *(It looks best on desktop or tablet for full animations!)*
 
 ---
