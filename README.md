@@ -17,7 +17,7 @@ Crafted with passion and precision, this site is a living showcase of my skills,
 
 ## 📸 Sneak Peek
 
-> ⚡ Explore the [Live Portfolio Here](https://josht-tech.github.io/Joseph-s-Portfolio-/)  
+> ⚡ Explore the https://kyucomrade.github.io/My-Portfolio-/
 > *(It looks best on desktop or tablet for full animations!)*
 
 ---
