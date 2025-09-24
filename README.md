@@ -1,69 +1,89 @@
-# 💼 Joseph Chege's Portfolio
+# Joseph Chege - Personal Portfolio 💻✨
 
-Welcome to my personal **developer portfolio**!  
-Crafted with passion and precision, this site is a living showcase of my skills, journey, and digital creativity.
+Welcome to my personal portfolio website, a creatively styled and fully animated showcase of my skills, projects, and personality, built using only HTML and CSS*!
 
----
+## 📂 Project Structure
 
-## 🔥 Features
+📁assets/
+📁images/
+📁 styles/
+├── styles.css
+├── animations.css
+├── responsive.css
+📁 pages/
+├── index.html
+├── education.html
+├── projects.html
+├── contact.html
+├── secret.html
 
-- 🚀 **Animated scroll effects** (AOS-powered)
-- 📄 **Interactive CV section** with live preview & download
-- 🖼️ Sleek, modern layout with responsive design
-- 🌐 Hosted with **GitHub Pages** for easy sharing
-- 💡 Focus on **Python, GitHub, branding, and creative AI tools**
+## 🚀 Features
 
----
+### ✅ Core Sections
 
-## 📸 Sneak Peek
+- *About* – Introduction and motivation. As well as a downloadable CV.
+- *Programming Languages* – Listed in glowing animated cards.
+- *Education* – Background and all that excites me.
+- *Projects* – My favorite builds.
+- *Contact Form* – Simple, stylish way to connect using formspree.
 
-> ⚡ Explore the [live version] https://kyucomrade.github.io/My-Portfolio-/
-> *(It looks best on desktop or tablet for full animations!)*
+### 🌈 Enhancements
 
----
+- 🎇 *Glowing Cards*: Stylish language cards with hover animations.
+- 🌠 *Animated Navigation*: Smooth transitions and hover effects.
+- 🔐 *Secret Page*: Hidden link to a secret creative page!
+- 📱 *Responsive Design*: Clean across mobile and desktop.
+- 🎯 *Sticky Footer Icons*: Updated GitHub, LinkedIn, Email.
 
-## 🛠️ Built With
+## 💡 How to Use
 
-- 🧱 **HTML5**, **CSS3**
-- 🎨 AOS (Animate On Scroll)
-- 🐙 **Git & GitHub Pages**
+1. *Clone the Repository*
 
----
+git clone <https://github.com/KyUCOMRADE/My-Portfolio->
+cd portfolio
+Open index.html in your browser
+That’s it! No frameworks, servers, or bundlers needed.
 
-## 📁 CV Section
+## 🔗 Live Portfolio
 
-In this portfolio, you’ll find a dedicated **CV section** after my educational background:
-- Shows key highlights
-- Includes **Download** button
-- Animates into view on scroll ✨
+👉 [View My Portfolio](https://KyUCOMRADE.github.io/My-Portfolio-/)
 
----
+## 👩‍💻 Tech Used
 
-## 🧑‍💻 About Me
+1.HTML5
+2.CSS3
 
-> I'm Joseph Chege — a passionate technologist skilled in:
-> - Python, Git, GitHub Pages
-> - Termux, Linux, MariaDB
-> - Storytelling, branding, and creative outreach
+Pure creativity and fun
 
----
+📫 Contact
+Email: <chegejoseph5006@gmail.com>
+GitHub: <https://github.com/KyUCOMRADE>
 
-## 📬 Contact
+X: <https://x.com/josephcheg27035?t=DqycPGoK50B1zQr0e9K6uw&s=09>
 
-Feel free to reach out via:
+⭐ Credits
+Inspired by tech, design, and a little bit of magic ✨
 
-- 📧 Email: chegejoseph5006@gmail.com  
-- 🐙 GitHub:[@KyUCOMRADE](https://github.com/KyUCOMRADE)
+## 📝 License
 
----
+This project is licensed under the MIT License.
 
-## ⭐ Support & Feedback
+Copyright (c) 2023 Joseph Chege
 
-If you love the portfolio or have suggestions:
-- ⭐ Star the repo
-- 🐞 Open issues for bugs or ideas
-- 📢 Share with friends!
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
----
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-_“Creating value through storytelling and code.”_
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
